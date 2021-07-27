@@ -1,0 +1,42 @@
+.align{
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    line-height: 30px;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-register-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-register-box input{
+    box-shadow: rgb(242 242 242) 1px 1px 0px inset;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgb(181, 186, 195);
+}
+
+.new-element-container{
+    background-color: gainsboro;
+    width: 20%;
+    border-radius: 5px;
+    padding: 1rem;
+    justify-content: center;
+    display: flex;
+}
+
+.registry-button{
+    width: 5rem;
+    font-size: 1rem;
+    background-color: burlywood;
+    border-radius: 5px;
+    align-self: flex-end;
+    margin: 3px;
+}
+

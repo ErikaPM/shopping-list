@@ -1,0 +1,29 @@
+
+<div class="align">
+    <div class="card new-element-container" style="width: 30rem;">
+        <div class="card-body">
+          <h5 class="card-title">Registrar nuevo articulo</h5>
+          <form class = "form"
+          action="" (ngSubmit)="onSubmit()">
+              <div class= "item-register-box">
+                  <label for=""> Id del articulo</label>
+                  <input type="text" name="title" id= "" [(ngModel)] = "id"> 
+              </div>
+              <div class= "item-register-box">
+                  <label for=""> Nombre del articulo</label>
+                  <input type="text" name="title" id= "" [(ngModel)] = "title"> 
+              </div>
+              <div class= "item-register-box">
+                  <label for=""> Precio del articulo</label>
+                  <input type="text" name="title" id= "" [(ngModel)] = "price">
+              </div>
+              <div class= "item-register-box">
+                  <label for=""> Cantidad de articulos</label>
+                  <input type="text" name="title" id= "" [(ngModel)] = "quantity">
+              </div>
+              <input class= "btn btn-primary registry-button" type="submit" value="crear">
+          </form>
+        </div>
+    </div>
+</div>
+
