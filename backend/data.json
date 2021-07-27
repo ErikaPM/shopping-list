@@ -1,0 +1,100 @@
+[
+    {
+      "id": "1",
+      "title": "Papa",
+      "price": "9000",
+      "quantity": "2",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Lechuga",
+      "price": "4000",
+      "quantity": "3",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Tomates",
+      "price": "1000",
+      "quantity": 6,
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Pepino",
+      "price": "1000",
+      "quantity": 4,
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Brócoli",
+      "price": "1200",
+      "quantity": 4,
+      "completed": false
+    },
+    {
+      "id": "6",
+      "title": "Zanahoria",
+      "price": "800",
+      "quantity": 6,
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Habichuela",
+      "price": "800",
+      "quantity": 10,
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "Apio",
+      "price": "1000",
+      "quantity": 5,
+      "completed": false
+    },
+    {
+      "id": "9",
+      "title": "Espinaca",
+      "price": "900",
+      "quantity": 3,
+      "completed": false
+    },
+    {
+      "id": "10",
+      "title": "Pimenton",
+      "price": "900",
+      "quantity": 2,
+      "completed": false
+    },
+    {
+      "id": "11",
+      "title": "Cebolla Cabezona",
+      "price": "800",
+      "quantity": 5,
+      "completed": false
+    },
+    {
+      "id": "12",
+      "title": "Cebolla larga",
+      "price": "1000",
+      "quantity": 4,
+      "completed": false
+    },
+    {
+      "id": "13",
+      "title": "Aguacate Hass",
+      "price": "1500",
+      "quantity": 5,
+      "completed": false
+    },
+    {
+      "id": "14",
+      "title": "Aguacate verde",
+      "price": "2300",
+      "quantity": 2,
+      "completed": false
+    }
+  ]
